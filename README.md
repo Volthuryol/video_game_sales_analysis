@@ -24,11 +24,11 @@ pip3 install -r requirements.txt
 ```   
 
 ## Why am I doing this
-My first solo project using EDA and Data Visualizations in Python. The analysis shows:
-    * Trends in Sales over years
-    * Comparison between Genre popularity
-    * Which platforms had the most sales
-    * Comparing ESRB ratings   
+My first solo project using EDA and Data Visualizations in Python. The analysis shows:  
+    * Trends in Sales over years  
+    * Comparison between Genre popularity  
+    * Which platforms had the most sales  
+    * Comparing ESRB ratings  
   
 ## Data Sources
 Here are my sources from Kaggle:  
